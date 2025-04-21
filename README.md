@@ -1,3 +1,5 @@
 # papier.github.io
 
-The future of blogging...
+Use the following command to run jekyll in the devcontainer:
+
+    bundle exec jekyll serve

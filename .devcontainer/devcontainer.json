@@ -2,7 +2,6 @@
 	"name": "Jeykyll",
 	"image": "mcr.microsoft.com/devcontainers/ruby",
 	"postCreateCommand": "gem install eventmachine bigdecimal bundler jekyll && bundle install",
-	"postStartCommand": "bundle exec jekyll serve",
 	"forwardPorts": [
 		4000
 	]
