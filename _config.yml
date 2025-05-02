@@ -21,7 +21,7 @@
 title: CopyOnWrite
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about technology, software development and other stuff.
+  A blog about IT, software development, Linux and knowledge work.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://copyonwrite.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
